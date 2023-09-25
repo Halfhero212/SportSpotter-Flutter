@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944184812807",
+    "firebase_url": "https://sportspotter-aead3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sportspotter-aead3",
+    "storage_bucket": "sportspotter-aead3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944184812807:android:59c6dff2f8eed0e6ab11a2",
+        "android_client_info": {
+          "package_name": "com.example.sportspotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944184812807-l1k3hj48k2u6en6a57t0g28rsgsejq6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdN-zBsQIVqcdaLcXobiIbkEjVJnmEdoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944184812807-l1k3hj48k2u6en6a57t0g28rsgsejq6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
